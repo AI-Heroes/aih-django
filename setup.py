@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='aih_django',
-    version='0.0.1',
+    version='0.0.2',
     packages=find_packages(),
     description='A collection of Django utilities',
     long_description=open('README.md').read(),
