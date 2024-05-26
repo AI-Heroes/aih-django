@@ -3,14 +3,14 @@ from setuptools import setup, find_packages
 
 setup(
     name='aih_django',
-    version='0.1',
+    version='0.0.1',
     packages=find_packages(),
     description='A collection of Django utilities',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     author='Joseph',
     author_email='joseph@aiheroes.io',
-    url='https://github.com/yourusername/aih-django-utils',
+    url='https://github.com/AI-Heroes/aih-django/tree/0.0.1',
     install_requires=[
         'Django>=3.2',  # Specify the Django version compatibility
     ],
