@@ -1,1 +1,1 @@
-from permission_check_mixin import PermissionDecoratorMixin
+from .permission_check_mixin import PermissionDecoratorMixin
